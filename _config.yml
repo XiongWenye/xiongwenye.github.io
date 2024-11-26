@@ -21,10 +21,10 @@ repository               : "XiongWenye/xiongwenye.github.io" # the GitHub reposi
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_5891.jpg"
   name             : "Wenye Xiong"
   pronouns         : "he/him"  
-  bio              : "Do something"
+  bio              : "鹤鸣九皋，声闻于野。"
   location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
   uri              : # URL
