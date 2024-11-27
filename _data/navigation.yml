@@ -21,7 +21,4 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: "https://xiongwenye.github.io/files/cv.pdf"
