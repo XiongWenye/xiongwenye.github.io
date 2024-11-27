@@ -8,6 +8,5 @@ redirect_from:
 ---
 I am currently a sophomore student at ShanghaiTech University, majoring in Computer Science.
 
-For more information, please see my Curriculum Vitae.
-
+For more information, please see my [Curriculum Vitae](http://academicpages.github.io/files/cv.pdf)
 ## News:
