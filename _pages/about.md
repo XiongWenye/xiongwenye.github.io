@@ -14,7 +14,7 @@ AI for Medicine and Science, Health Foundation Models, Multimodal Machine Learni
 
 ## Experience
 
-- **PACIFY project for iGEM 2024**: Modeling & Hardware Team Member (Dec. 2023 - Oct. 2024) [wiki](https://2024.igem.wiki/shanghaitech-china)
+- **PACIFY project for iGEM 2024**: Team Member (Dec. 2023 - Oct. 2024) [wiki](https://2024.igem.wiki/shanghaitech-china)
 - **MakeSense, ShanghaiTech First SensUs Team**: Co-Founder & Leader of Data Analysis Team (Aug. 2024 – present)
 - **Virtual Reality and Visual Computing Center (VRVC), ShanghaiTech**: Undergraduate Research Assistant, Supervisor: Dr. Minzhang Li (June 2024 - Oct. 2024)
 
