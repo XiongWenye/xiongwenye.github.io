@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a sophomore student at ShanghaiTech University, majoring in Computer Science.
+I am currently a sophomore at ShanghaiTech University, majoring in Computer Science.
 
 For more information, please see my [Curriculum Vitae](http://xiongwenye.github.io/files/cv.pdf)
 ## News:
