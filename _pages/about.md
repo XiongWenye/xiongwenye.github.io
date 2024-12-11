@@ -10,7 +10,7 @@ I am currently a sophomore at ShanghaiTech University, majoring in Computer Scie
 
 ## Research Interests
 
-AI for Medicine and Science, Health Foundation Models, Multimodal Machine Learning, Generative AI, De novo Protein Design, Protein Structure Prediction.
+Multimodal Machine Learning, Computer Vision, AI for Healthcare & Life Science, Generative AI.
 
 ## Experience
 
