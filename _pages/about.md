@@ -22,6 +22,7 @@ For more information, please see my [Curriculum Vitae](http://xiongwenye.github.
 
 ## News:
 
+- 2024.12 I was awarded the 2023-2024 Merit Student of ShanghaiTech Univeristy (only 5% in school)
 - 2024.10 Our PACIFY project won the Gold Medal of iGEM 2024.
 - 2023.10 I joined the AI Honor Program of SIST, ShanghaiTech University.
 - 2024.6 I joined VRVC as an undergraduate research assistant.
