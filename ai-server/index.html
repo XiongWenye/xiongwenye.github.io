@@ -22,28 +22,31 @@ document.addEventListener('DOMContentLoaded', () => {
       chatOutput.innerHTML += `<p>User: ${message}</p>`;
       chatInput.value = '';
 
-      // Placeholder for API call to server
-      const response = await fetch('http://localhost:3000/api/gemini', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'X-Gemini-API-Key': 'XKqf2gmHD8', // Include API key in headers
-        },
-        body: JSON.stringify({ message }),
-      });
+      // Call to server API
+      try {
+        const response = await fetch('http://localhost:3000/api/gemini', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({ message }),
+        });
 
-      console.log('Response status:', response.status); // Log the response status
-      if (response.ok) {
+        if (!response.ok) {
+          console.error('HTTP error!', response.status);
+          chatOutput.innerHTML += `<p>Error: HTTP ${response.status}</p>`;
+          return;
+        }
+
         const data = await response.json();
-        console.log('Response data:', data); // Log the response data
         chatOutput.innerHTML += `<p>AI: ${data.response}</p>`;
-      } else {
-        console.error('Error response:', response); // Log the error response
-        chatOutput.innerHTML += `<p>Error: Could not get AI response.</p>`;
+      } catch (error) {
+        console.error('Fetch error:', error);
+        chatOutput.innerHTML += `<p>Error: Network error</p>`;
       }
     }
   });
 });
-    </script>
+</script>
 </body>
 </html>
