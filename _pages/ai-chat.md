@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
       chatInput.value = '';
 
       // Placeholder for API call to server
-      const response = await fetch('/api/gemini', { // Assuming server endpoint is /api/gemini
+      const response = await fetch('http://localhost:3000/api/gemini', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -37,10 +37,13 @@ document.addEventListener('DOMContentLoaded', () => {
         body: JSON.stringify({ message }),
       });
 
+      console.log('Response status:', response.status); // Log the response status
       if (response.ok) {
         const data = await response.json();
+        console.log('Response data:', data); // Log the response data
         chatOutput.innerHTML += `<p>AI: ${data.response}</p>`;
       } else {
+        console.error('Error response:', response); // Log the error response
         chatOutput.innerHTML += `<p>Error: Could not get AI response.</p>`;
       }
     }
