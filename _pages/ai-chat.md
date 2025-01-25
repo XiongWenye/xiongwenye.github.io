@@ -33,6 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
+          'X-Gemini-API-Key': 'XKqf2gmHD8', // Include API key in headers
         },
         body: JSON.stringify({ message }),
       });
