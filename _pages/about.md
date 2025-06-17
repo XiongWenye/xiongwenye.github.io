@@ -17,11 +17,13 @@ Multimodal Machine Learning, Computer Vision, AI for Healthcare & Life Science, 
 - **PACIFY project for iGEM 2024**: Team Member (Dec. 2023 - Oct. 2024) [wiki](https://2024.igem.wiki/shanghaitech-china)
 - **MakeSense, ShanghaiTech First SensUs Team**: Co-Founder & Leader of Data Analysis Team (Aug. 2024 – present)
 - **Virtual Reality and Visual Computing Center (VRVC), ShanghaiTech**: Undergraduate Research Assistant, Supervisor: Dr. Minzhang Li (June 2024 - Oct. 2024)
+- **Perception, Learning, and Understanding (PLUS) Lab, ShanghaiTech**: Undergraduate Research Assistant, Supervisors: Prof. Xuming He (Jan. 2025 - present)
 
 For more information, please see my [Curriculum Vitae](http://xiongwenye.github.io/files/cv.pdf)
 
 ## News:
 
+- 2025.5 I was admitted to the Visiting Undergraduate Student (VUS) program at the Harvard University for the 2025-2026 academic year. See you in Cambridge!
 - 2025.1 I joined the [PLUS Lab](https://plus.sist.shanghaitech.edu.cn/) of SIST, advised by Prof. [Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/) and Prof. [Sibei Yang](https://faculty.sist.shanghaitech.edu.cn/yangsibei/) as a part of the AI Honor Program.
 - 2024.12 I was awarded the 2023-2024 Merit Student of ShanghaiTech Univeristy (only 5% in school)
 - 2024.10 Our PACIFY project won the Gold Medal of iGEM 2024.
