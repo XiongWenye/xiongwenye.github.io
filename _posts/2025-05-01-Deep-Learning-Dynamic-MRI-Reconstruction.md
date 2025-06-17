@@ -10,7 +10,7 @@ tags:
 # Deep-Learning-Dynamic-MRI-Reconstruction
 <div align="center">
     <figure>
-        <img src="https://github.com/XiongWenye/xiongwenye.github.io/blob/master/files/Deep%20Learning%20Dynamic%20MRI%20Reconstruction/pipeline.png" alt="Pipeline">
+        <img src="_posts/Deep Learning Dynamic MRI Reconstruction/pipeline.png" alt="Reconstruction Network Architecture">
             <figcaption><em>Fig: Overall architecture of our proposed reconstruction network with dual UNet branches for real and imaginary components and 3D ResNet for temporal fusion</em></figcaption>
     </figure>
 </div>

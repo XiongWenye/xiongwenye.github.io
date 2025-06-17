@@ -8,7 +8,6 @@ tags:
   - Large Chemical Language Model
 ---
 
-# NOSE
 # NOSE: Neural Olfactory Sensing and Evaluation
 
 Repository for Introduction to Machine Learning Course Project, 2025 Spring.
