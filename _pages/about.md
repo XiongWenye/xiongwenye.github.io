@@ -6,16 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a sophomore at ShanghaiTech University, majoring in Computer Science.
+I am currently a third-year visiting undergraduate student at Harvard University. Before, I was an undergraduate student at ShanghaiTech University, majoring in Computer Science and Technology. I am a member of the [PLUS Lab](https://plus.sist.shanghaitech.edu.cn/) at the School of Information Science and Technology (SIST), advised by Prof. [Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/). My research interests include Multimodal Machine Learning, Computer Vision, AI for Healthcare & Life Science, and Generative AI. My recent research focuses on **Compositional Scene Generation**. By learning the disentangled representation from the scene graph, we try to enable flexible control over the diffusion based generation process.
 
 ## Research Interests
 
-Multimodal Machine Learning, Computer Vision, AI for Healthcare & Life Science, Generative AI.
+Multimodal Machine Learning, Computer Vision, AI for Healthcare & Life Science, Generative AI, Scene Understanding.
 
 ## Experience
 
 - **PACIFY project for iGEM 2024**: Team Member (Dec. 2023 - Oct. 2024) [wiki](https://2024.igem.wiki/shanghaitech-china)
-- **MakeSense, ShanghaiTech First SensUs Team**: Co-Founder & Leader of Data Analysis Team (Aug. 2024 – present)
+- **MakeSense, ShanghaiTech First SensUs Team**: Co-Founder & Leader of Data Analysis Team (Aug. 2024 – Aug. 2025)
 - **Virtual Reality and Visual Computing Center (VRVC), ShanghaiTech**: Undergraduate Research Assistant, Supervisor: Dr. Minzhang Li (June 2024 - Oct. 2024)
 - **Perception, Learning, and Understanding (PLUS) Lab, ShanghaiTech**: Undergraduate Research Assistant, Supervisors: Prof. Xuming He (Jan. 2025 - present)
 
