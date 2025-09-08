@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Wenye Xiong"
 title_separator          : "-"
 name                     : &name "Wenye Xiong"
-description              : &description "Undergraduate Student at ShanghaiTech University"
+description              : &description "Undergraduate Student at ShanghaiTech University, Visiting Undergraduate Student at Harvard University"
 url                      : https://xiongwenye.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XiongWenye/xiongwenye.github.io" # the GitHub repository for your site
@@ -28,7 +28,7 @@ author:
   location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
   uri              : # URL
-  email            : "xiongwenye@shanghaitech.edu.cn"
+  email            : "wenyexiong@college.harvard.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
