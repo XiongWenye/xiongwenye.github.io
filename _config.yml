@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Wenye Xiong"
 title_separator          : "-"
 name                     : &name "Wenye Xiong"
-description              : &description "Undergraduate Student at ShanghaiTech University, Visiting Undergraduate Student at Harvard University"
+description              : &description "CS Undergraduate at ShanghaiTech University, Visiting Student at Harvard University. Research in Computer Vision, Embodied AI, and World Models."
 url                      : https://xiongwenye.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XiongWenye/xiongwenye.github.io" # the GitHub repository for your site
