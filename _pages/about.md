@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wenye (Bear) Xiong  熊闻野"
+title: "Wenye Xiong  熊闻野"
 author_profile: true
 redirect_from: 
   - /about/
