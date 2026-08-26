@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated: April 2026 &nbsp; | &nbsp; [Download PDF](/files/cv.pdf)
+Last updated: August 2026 &nbsp; | &nbsp; [English CV](/files/cv.pdf) &nbsp; | &nbsp; [中文简历](/files/cv_cn.pdf)
 
 ## Research Interests
 
-Computer Vision, Embodied AI, World Models.  
-Compositional Generative Model, Scene Understanding, Spatial Reasoning.
+Computer Vision, Embodied AI, World Models, Efficient AI.  
+Cloud-edge Integrated Intelligent Systems, Compositional Generative Model, Scene Understanding, Spatial Reasoning.
 
 ## Education
 
@@ -22,7 +22,7 @@ Compositional Generative Model, Scene Understanding, Spatial Reasoning.
 *B.E. in Computer Science and Technology, Minor in Life Sciences* | Sep. 2023 – Jun. 2027 (expected)
 
 - **AI Honor Class**
-- Overall GPA: 3.82/4.0 (Rank 9/173 in CS major)
+- Overall GPA: 3.83/4.0 (Rank 9/173 in CS major)
 - General Evaluation Ranking: Rank **1/173** in CS major
 - Relevant Coursework: Intro. to Information Science and Technology (A+), Intro. to Programming (A), Algorithms and Data Structures (A), Intro. to Machine Learning (A-), AI in Medical Imaging (A), Computational Science and Engineering (A+), Computer Architecture (A-) & Project (A), Protein Design (A+), Game Theory (A)
 
@@ -30,7 +30,7 @@ Compositional Generative Model, Scene Understanding, Spatial Reasoning.
 *Visiting Undergraduate Student* | Sep. 2025 – May 2026
 
 - Overall GPA: 4.0/4.0
-- Relevant Coursework: Signal Processing (MIT cross-registration) (A), Computer Vision (A), Planning and Learning Methods in AI (A), Hardware Architecture for Deep Learning (MIT cross-registration) (in progress), AI for Molecular Biology (in progress), High Performance Computing (in progress)
+- Relevant Coursework: Signal Processing (MIT cross-registration) (A), Computer Vision (A), Planning and Learning Methods in AI (A), AI for Molecular Biology (A), High Performance Computing (A-)
 
 ## Awards & Honors
 
@@ -42,6 +42,12 @@ Compositional Generative Model, Scene Understanding, Spatial Reasoning.
 - **Outstanding Mentor Assistant**, ShanghaiTech University, 2023
 
 ## Research Experience
+
+**DAI Lab, Shanghai Jiao Tong University** — Shanghai, CHN  
+*Incoming Ph.D. Student*  
+Advisor: Prof. [Guohao Dai](https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/daiguohao)
+
+- Focused on embodied AI systems.
 
 **Embodied Minds Lab, Harvard University & Kempner Institute** — Cambridge, USA  
 *Visiting Undergraduate Research Assistant* | Sep. 2025 – present  

@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Wenye Xiong"
 title_separator          : "-"
 name                     : &name "Wenye Xiong"
-description              : &description "CS Undergraduate at ShanghaiTech University, Visiting Student at Harvard University. Research in Computer Vision, Embodied AI, and World Models."
+description              : &description "Incoming Ph.D. student at Shanghai Jiao Tong University DAI Lab. Research in Computer Vision, Embodied AI, Efficient AI, and cloud-edge integrated intelligent systems."
 url                      : https://xiongwenye.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XiongWenye/xiongwenye.github.io" # the GitHub repository for your site
@@ -25,8 +25,8 @@ author:
   name             : "Wenye Xiong"
   pronouns         : "he/him"  
   bio              : "鹤鸣九皋，声闻于野"
-  location         : "Cambridge, MA, USA"
-  employer         : "Harvard University"
+  location         : "Shanghai, China"
+  employer         : "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "wenyexiong@college.harvard.edu"
 
