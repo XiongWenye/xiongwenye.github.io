@@ -11,13 +11,12 @@ redirect_from:
 
 I am an **incoming Ph.D. student at the DAI Lab, Shanghai Jiao Tong University**, advised by Prof. [Guohao Dai](https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/daiguohao). I am currently an **undergraduate student at ShanghaiTech University** (B.E. in Computer Science and Technology, **Minor in Life Sciences**, expected Jun. 2027), and previously visited Harvard University as a Visiting Undergraduate Student (Sep. 2025 – May 2026).
 
-My research interests lie in **Computer Vision**, **Embodied AI**, **World Models**, **Efficient AI**, and **Cloud-edge Integrated Intelligent Systems**, with a focus on **embodied AI systems**, **compositional generative models**, **scene understanding**, and **spatial reasoning**. Recently, I have been working on **Compositional Scene Generation**: learning disentangled representations from structured scene descriptions (e.g., scene graphs / object-relation specifications) to enable flexible control over diffusion-based generation and reasoning.
+My research interests lie in **Embodied AI**, **World Models**, and **Efficient AI**, with a focus on **embodied AI systems** and **spatial reasoning**. Recently, I have been working on **Cloud-Edge Integrated Intelligent Systems** and **VLA Acceleration**.
 
 For more information, please see my Curriculum Vitae: [English CV](http://xiongwenye.github.io/files/cv.pdf) / [中文简历](http://xiongwenye.github.io/files/cv_cn.pdf).
 
 ## Research Interests
 
-- Computer Vision
 - Embodied AI & World Models
 - Efficient AI
 - Cloud-edge Integrated Intelligent Systems
@@ -28,13 +27,8 @@ For more information, please see my Curriculum Vitae: [English CV](http://xiongw
 
 - **ShanghaiTech University** — B.E. in Computer Science and Technology, Minor in Life Sciences (Sep. 2023 – Jun. 2027 expected)  
   - **AI Honor Class**  
-  - Overall GPA: 3.83/4.0 (Rank 9/173 in CS major)  
-  - General Evaluation Ranking: Rank **1/173** in CS major  
-  - Relevant Coursework: Intro. to Information Science and Technology (A+), Intro. to Programming (A), Algorithms and Data Structures (A), Intro. to Machine Learning (A-), AI in Medical Imaging (A), Computational Science and Engineering (A+), Computer Architecture (A-) & Project (A), Protein Design (A+), Game Theory (A)
 
 - **Harvard University** — Visiting Undergraduate Student (Sep. 2025 – May 2026)  
-  - Overall GPA: 4.0/4.0  
-  - Relevant Coursework: Signal Processing (MIT cross-registration) (A), Computer Vision (A), Planning and Learning Methods in AI (A), AI for Molecular Biology (A), High Performance Computing (A-)
 
 ## Awards & Honors
 
@@ -104,9 +98,6 @@ For more information, please see my Curriculum Vitae: [English CV](http://xiongw
 - **Framework & Toolchain:** PyTorch, Git, Docker, Linux, Rosetta, CUDA, AccelForge, OpenMP, MPI  
 - **Misc:** LaTeX, Markdown, IELTS 7.5 (6.5), CET-6 (646)
 
-## Publications
-
-No publications yet.
 
 ## News
 
