@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wenye Xiong  熊闻野"
+title: "Wenye Xiong \ 熊闻野"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 <span id="about-me"></span>
 
-I am an **incoming Ph.D. student at the DAI Lab, Shanghai Jiao Tong University**, advised by Prof. [Guohao Dai](https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/daiguohao). I am currently an **undergraduate student at ShanghaiTech University** (B.E. in Computer Science and Technology, **Minor in Life Sciences**, expected Jun. 2027), and previously visited Harvard University as a Visiting Undergraduate Student (Sep. 2025 – May 2026).
+I am an **incoming Ph.D. student in School of Artificial Intelligence, Shanghai Jiao Tong University**, advised by Prof. [Guohao Dai(戴国浩)](https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/daiguohao). I am currently an **undergraduate student at ShanghaiTech University** (B.E. in Computer Science and Technology, **Minor in Life Sciences**, expected Jun. 2027), and previously visited Harvard University as a Visiting Undergraduate Student (Sep. 2025 – May 2026).
 
 My research interests lie in **Embodied AI**, **World Models**, and **Efficient AI**, with a focus on **embodied AI systems** and **spatial reasoning**. Recently, I have been working on **Cloud-Edge Integrated Intelligent Systems** and **VLA Acceleration**.
 
