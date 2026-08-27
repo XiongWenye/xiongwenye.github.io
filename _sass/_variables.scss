@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 16;
+$doc-font-size              : 15;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -14,7 +14,7 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : "Trebuchet MS", Helvetica, Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -43,7 +43,7 @@ $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
 /* masthead properties */
-$masthead-height            : 70px;
+$masthead-height            : 48px;
 
 /* Sidebar properties */
 $sidebar-screen-min-width   : 1024px;
@@ -65,7 +65,7 @@ $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
+$text-color                 : #494e52;
 $border-color               : $lighter-gray;
 
 $primary-color              : #7a8288;
@@ -102,7 +102,7 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : #224b8d;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;

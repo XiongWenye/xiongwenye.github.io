@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<span id="about-me"></span>
+
 I am an **incoming Ph.D. student at the DAI Lab, Shanghai Jiao Tong University**, advised by Prof. [Guohao Dai](https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/daiguohao). I am currently an **undergraduate student at ShanghaiTech University** (B.E. in Computer Science and Technology, **Minor in Life Sciences**, expected Jun. 2027), and previously visited Harvard University as a Visiting Undergraduate Student (Sep. 2025 – May 2026).
 
 My research interests lie in **Computer Vision**, **Embodied AI**, **World Models**, **Efficient AI**, and **Cloud-edge Integrated Intelligent Systems**, with a focus on **embodied AI systems**, **compositional generative models**, **scene understanding**, and **spatial reasoning**. Recently, I have been working on **Compositional Scene Generation**: learning disentangled representations from structured scene descriptions (e.g., scene graphs / object-relation specifications) to enable flexible control over diffusion-based generation and reasoning.

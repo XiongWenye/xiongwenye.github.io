@@ -1,0 +1,236 @@
+/* Reference-inspired academic homepage styling. */
+
+body {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 1em 0 0.5em;
+}
+
+h1 {
+  margin-top: 1em;
+  font-size: 1.4em;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+h3,
+h4,
+h5,
+h6,
+small,
+.small {
+  font-size: 1em;
+}
+
+p {
+  margin-bottom: 0.5em;
+}
+
+ul {
+  padding-inline-start: 2em;
+  margin-block-start: 0.5em;
+}
+
+table {
+  font-size: 1em;
+}
+
+#main {
+  margin-top: 2em;
+}
+
+.masthead {
+  position: sticky;
+  height: auto;
+  background-color: #fff;
+}
+
+.masthead__inner-wrap {
+  padding: 0.5em;
+}
+
+.masthead__menu-home-item {
+  display: none !important;
+
+  @include breakpoint($medium) {
+    display: block !important;
+  }
+}
+
+.greedy-nav {
+  background: #fff;
+
+  button {
+    height: 100%;
+  }
+
+  a {
+    margin-bottom: 0;
+    font-size: 1em;
+  }
+}
+
+.profile_box {
+  display: flex;
+  justify-content: flex-start;
+  align-content: flex-start;
+  align-items: center;
+
+  @include breakpoint($large) {
+    display: block;
+  }
+}
+
+.sidebar {
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    height: auto;
+    overflow-y: visible;
+    position: static;
+    padding-top: 0;
+  }
+
+  @include breakpoint($large) {
+    @include span(2 of 12);
+  }
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  li {
+    font-size: 1em;
+  }
+}
+
+.sticky {
+  @include breakpoint($large) {
+    clear: both;
+    position: sticky;
+    top: 6em;
+  }
+}
+
+.author__avatar {
+  width: 75px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 175px;
+    min-width: 75px;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+}
+
+.author__content {
+  padding-left: 10px;
+  min-width: 120px;
+
+  @include breakpoint($large) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.sidebar .author__name {
+  font-size: 1.2em;
+
+  @include breakpoint($medium) {
+    font-size: 1.4em;
+  }
+}
+
+.author__bio {
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+}
+
+.author__focus {
+  white-space: normal;
+  margin-bottom: 1em;
+}
+
+.author__urls-wrapper {
+  margin-left: auto;
+}
+
+.page,
+.archive {
+  @include breakpoint($large) {
+    @include span(10 of 12 last);
+    @include prefix(0.5 of 12);
+    padding-right: 0;
+  }
+}
+
+.page__content {
+  h1,
+  h2 {
+    margin-top: 1em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid $border-color;
+  }
+
+  p,
+  li,
+  dl,
+  dd,
+  .small {
+    font-size: 1em;
+  }
+
+  p {
+    margin: 0 0 0.5em;
+  }
+}
+
+.page__content #about-me {
+  display: block;
+  scroll-margin-top: 6em;
+}
+
+.archive__subtitle,
+.archive__item-excerpt {
+  font-size: 1em;
+}
+
+.list__item {
+  @include breakpoint($medium) {
+    padding-right: 0;
+  }
+
+  @include breakpoint($large) {
+    padding-right: 0;
+  }
+
+  @include breakpoint($x-large) {
+    padding-right: 0;
+  }
+}
+
+body .page__footer {
+  margin-top: 0;
+}

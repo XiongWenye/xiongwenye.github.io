@@ -23,8 +23,9 @@ author:
   # Biographic information
   avatar           : "IMG_5891.jpg"
   name             : "Wenye Xiong"
-  pronouns         : "he/him"  
-  bio              : "鹤鸣九皋，声闻于野"
+  pronouns         :
+  bio              : "DAI Lab, Shanghai Jiao Tong University"
+  research_focus   : "Focusing on embodied AI systems, efficient AI, and cloud-edge integrated intelligent systems."
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
