@@ -60,57 +60,21 @@ For more information, please see my Curriculum Vitae: [English CV](http://xiongw
 ## Selected Competitions
 
 - **PACIFY** – iGEM 2024 [[wiki](https://2024.igem.wiki/shanghaitech-china)] — Team Member (Dec. 2023 – Oct. 2024)  
-  - Performed homology modeling to obtain protein structures and used AlphaFold 2 for structure prediction.  
-  - Operated protein preparation and molecular dynamics simulation.  
-  - Developed devices based on PID algorithm to address itchiness without harming the skin.  
   - Awarded **Gold Medal**.
 
-- **MakeSense, ShanghaiTech First SensUs Team** — Co-Founder & Leader of Data Analysis Team (Aug. 2024 – Aug. 2025)  
-  - Developed a wearable biosensor-based device to continuously monitor acute kidney injury (AKI) biomarkers.  
-  - Invested in an enzyme-based creatinine sensor and QCM (Quartz Crystal Microbalance) platform.  
-  - Set up a data analysis pipeline to process sensor data, achieving near-perfect accuracy in predicting creatinine concentration.  
+- **MakeSense, ShanghaiTech First SensUs Team** — Co-Founder & Leader of Data Analysis Team (Aug. 2024 – Aug. 2025)   
   - **First Place** in Analytical Performance: *"This team did an absolutely remarkable job with unprecedented results and near-perfect accuracy. This is a first in SensUs history and sets a new benchmark for other teams, especially as a first-time participating team."* — SensUs Committee.
-
-## Selected Projects
-
-- **De Novo Design of Odorant Binding Proteins for Breast Cancer Detection** (Dec. 2024 – Jan. 2025)  
-  Supervisor: Prof. Jiayi Dou  
-  - Designed three novel Odorant Binding Proteins (OBPs) to specifically recognize VOCs (hexanal, octanal, nonanal) that serve as biomarkers for breast cancer.  
-  - Executed a complete de novo computational design pipeline, generating protein backbones with RFdiffusionAA and designing amino acid sequences using LigandMPNN.  
-  - Validated designs using AutoDock, PyRosetta, and ESMFold, demonstrating significantly higher binding affinity and stability compared to natural counterparts.
-
-- **Neural Olfactory Sensing and Evaluation (NOSE)** (May. 2025 – Jun. 2025)  
-  Supervisor: Prof. Yujiao Shi  
-  - Fine-tuned **MoLFormer**, a large chemical language model, on the GS-LF olfactory dataset for specialized odor prediction tasks.  
-  - Evaluated against the state-of-the-art **OpenPOM** on the Keller-2016 dataset, performing odor label classification and pleasantness rating prediction.  
-  - Achieved state-of-the-art performance, with the fine-tuned model matching or surpassing OpenPOM on key metrics.
-
-- **Phase-Adaptive Quantization for AI Accelerators** (Apr. 2026 – May 2026)  
-  Supervisor: Prof. Joel Emer & Prof. Vivienne Sze (MIT)  
-  - Designed a **phase-aware 4-bit quantization design-space exploration** framework for LLM, VLM, and VLA inference workloads, comparing prefill and decode regimes across NVFP4-like, MXFP4-like, and custom rescale pipelines.  
-  - Built an automated **AccelForge** experiment flow to generate workload/architecture YAMLs, run hardware energy/latency sweeps, extract per-einsum bottleneck breakdowns, and resume long-running Docker-based mappings.  
-  - Implemented a Python quantization accuracy emulator using real model tensor snapshots to evaluate per-layer cosine similarity and combine accuracy with hardware cost for Pareto frontier analysis.  
-  - Demonstrated that decode and prefill favor different quantization configurations, motivating **phase-adaptive datapaths** over a single fixed 4-bit format.
-
-## Technical Strengths
-
-- **Programming Languages:** Matlab, Python, C & C++, RISC-V Assembly  
-- **Framework & Toolchain:** PyTorch, Git, Docker, Linux, Rosetta, CUDA, AccelForge, OpenMP, MPI  
-- **Misc:** LaTeX, Markdown, IELTS 7.5 (6.5), CET-6 (646)
-
 
 ## News
 
 - **2026.08** Joined DAI Lab at Shanghai Jiao Tong University as an incoming Ph.D. student, advised by Prof. [Guohao Dai](https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/daiguohao), focusing on embodied AI systems.
+- **2025.12** Awarded **Merit Student** of ShanghaiTech University (Top 1 in CS major) for 2024–2025.
 - **2025.09** Joined Embodied Minds Lab (Harvard University & Kempner Institute) as a Visiting Undergraduate Research Assistant.
 - **2025.05** Admitted to the Visiting Undergraduate Student (VUS) program at Harvard University for the 2025–2026 academic year.
 - **2025.01** Joined the PLUS Lab of SIST, ShanghaiTech University, advised by Prof. Xuming He.
 - **2025** Our MakeSense team won **First Place (Analytical Performance)** at SensUs 2025.
-- **2024.12** Awarded **Merit Student** of ShanghaiTech University (Top 2% in school) for 2023–2024.
-- **2024.10** Our PACIFY project won the **Gold Medal** at iGEM 2024.
-- **2023.10** Joined the AI Honor Class of SIST, ShanghaiTech University.
-- **2024.06** Joined VRVC as an undergraduate research assistant.
-- **2024.02** Joined ShanghaiTech iGEM Team.
-- **2024.01** Awarded the 2023 Outstanding Mentor Assistant.
+
+
+
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=EasZ2og5WUm-qsd2B6EmHMVE_3C_YNylKdZgiR4H1n0'></script>
