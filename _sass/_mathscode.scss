@@ -177,6 +177,18 @@ table {
   margin-left: auto;
 }
 
+.author__visitor-map {
+  display: none;
+  max-width: 175px;
+  margin-top: 1em;
+  overflow: hidden;
+
+  @include breakpoint($large) {
+    display: block;
+    margin-top: 1.25em;
+  }
+}
+
 .page,
 .archive {
   @include breakpoint($large) {

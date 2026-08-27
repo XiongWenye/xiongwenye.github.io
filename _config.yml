@@ -302,7 +302,6 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -310,7 +309,6 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
   - jemoji
 
 
@@ -349,6 +347,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=i6ZNv3vJc-2hGXjAGkNz5Zen_NpKwT7kpk1t2ZhwWZo&cl=ffffff&w=a"></script>
