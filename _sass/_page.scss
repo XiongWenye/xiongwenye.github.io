@@ -380,7 +380,7 @@
 
 .project-card {
   display: grid;
-  grid-template-columns: minmax(0, 220px) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 250px) minmax(0, 1fr);
   align-items: center;
   gap: 28px;
   padding: 26px 0;
@@ -419,8 +419,12 @@
   }
 }
 
+.page__content .project-image--poster {
+  padding: 0;
+}
+
 .page__content .project-image--logo {
-  padding: 24px;
+  padding: 16px;
 }
 
 .page__content .project-description {

@@ -69,8 +69,8 @@ For more information, please see my Curriculum Vitae: [English CV](/files/cv.pdf
 
 <div class="project-list">
   <article class="project-card" aria-labelledby="project-quantization">
-    <a class="project-image project-image--plot" href="/images/projects/phase-adaptive-quantization.png" aria-label="View the full phase-adaptive quantization energy comparison">
-      <img src="/images/projects/phase-adaptive-quantization.png" alt="Modeled energy comparison of phase-adaptive, fixed NVFP4, and best fixed configurations for LLM, VLA, and VLM workloads" width="1800" height="1000" loading="lazy">
+    <a class="project-image project-image--poster" href="/files/phase-adaptive-quantization-poster.pdf" aria-label="View the Phase-Adaptive Quantization project poster">
+      <img src="/images/projects/phase-adaptive-quantization-poster.jpg" alt="Phase-Adaptive Quantization project poster showing the prefill and decode phases, quantization design space, MMA rescale pipeline, and evaluation results" width="1448" height="1086" loading="lazy">
     </a>
     <div class="project-description">
       <h3 id="project-quantization">Phase-Adaptive Quantization for AI Accelerators</h3>
@@ -80,12 +80,12 @@ For more information, please see my Curriculum Vitae: [English CV](/files/cv.pdf
         <li>Built an AccelForge workflow to model energy and latency across LLM, VLM, and VLA workloads.</li>
         <li>Combined hardware cost analysis with tensor-based accuracy emulation to compare phase-specific configurations.</li>
       </ul>
-      <p class="project-links"><a href="https://github.com/ET823828/Hardware-for-quantization">Code</a> <span aria-hidden="true">·</span> <a href="https://github.com/ET823828/Hardware-for-quantization/blob/main/report_slides.pdf">Slides</a></p>
+      <p class="project-links"><a href="https://github.com/ET823828/Hardware-for-quantization">Code</a> <span aria-hidden="true">·</span> <a href="/files/phase-adaptive-quantization-poster.pdf">Poster</a> <span aria-hidden="true">·</span> <a href="https://github.com/ET823828/Hardware-for-quantization/blob/main/report_slides.pdf">Slides</a></p>
     </div>
   </article>
   <article class="project-card" aria-labelledby="project-apxinf">
     <a class="project-image project-image--logo" href="https://github.com/infinigence/ApxInf" aria-label="ApxInf on GitHub">
-      <img src="/images/projects/infinigence-logo.svg" alt="Infinigence 无问芯穹 logo" width="125" height="39" loading="lazy">
+      <img src="/images/projects/apxinf-logo.png" alt="ApxInf project logo" width="1972" height="538" loading="lazy">
     </a>
     <div class="project-description">
       <h3 id="project-apxinf">ApxInf</h3>
