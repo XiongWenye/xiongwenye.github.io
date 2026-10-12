@@ -67,23 +67,38 @@ For more information, please see my Curriculum Vitae: [English CV](/files/cv.pdf
 
 ## Selected Projects
 
-### Phase-Adaptive Quantization for AI Accelerators
-
-*MIT Hardware Architecture for Deep Learning · Apr. – May 2026*
-
-Developed a phase-aware 4-bit quantization design-space exploration framework for LLM, VLM, and VLA inference. The project combines an AccelForge workflow for hardware energy and latency analysis with a Python accuracy emulator using real model tensor snapshots, comparing NVFP4-like, MXFP4-like, and custom rescale pipelines across prefill and decode.
-
-### Neural Olfactory Sensing and Evaluation (NOSE)
-
-*ShanghaiTech University · May – Jun. 2025*
-
-Fine-tuned MoLFormer on the GS-LF olfactory dataset and evaluated odor classification and pleasantness prediction against OpenPOM on Keller-2016. [Project details](/posts/NOSE-Neural-Olfactory-Sensing-and-Evaluation/)
-
-### De Novo Design of Odorant Binding Proteins
-
-*ShanghaiTech University · Dec. 2024 – Jan. 2025*
-
-Designed odorant binding proteins targeting breast-cancer-associated volatile compounds using RFdiffusionAA and LigandMPNN, with computational evaluation using AutoDock, PyRosetta, and ESMFold. [Project details](/posts/De-Novo-Design-of-Odorant-Binding-Proteins/)
+<div class="project-list">
+  <article class="project-card" aria-labelledby="project-quantization">
+    <a class="project-image project-image--plot" href="/images/projects/phase-adaptive-quantization.png" aria-label="View the full phase-adaptive quantization energy comparison">
+      <img src="/images/projects/phase-adaptive-quantization.png" alt="Modeled energy comparison of phase-adaptive, fixed NVFP4, and best fixed configurations for LLM, VLA, and VLM workloads" width="1800" height="1000" loading="lazy">
+    </a>
+    <div class="project-description">
+      <h3 id="project-quantization">Phase-Adaptive Quantization for AI Accelerators</h3>
+      <p class="project-meta">MIT · Hardware Architecture for Deep Learning<br>Apr. – May 2026 · Prof. Joel Emer &amp; Prof. Vivienne Sze</p>
+      <p>Exploring 4-bit quantization datapaths tailored to prefill and decode.</p>
+      <ul>
+        <li>Built an AccelForge workflow to model energy and latency across LLM, VLM, and VLA workloads.</li>
+        <li>Combined hardware cost analysis with tensor-based accuracy emulation to compare phase-specific configurations.</li>
+      </ul>
+      <p class="project-links"><a href="https://github.com/ET823828/Hardware-for-quantization">Code</a> <span aria-hidden="true">·</span> <a href="https://github.com/ET823828/Hardware-for-quantization/blob/main/report_slides.pdf">Slides</a></p>
+    </div>
+  </article>
+  <article class="project-card" aria-labelledby="project-apxinf">
+    <a class="project-image project-image--logo" href="https://github.com/infinigence/ApxInf" aria-label="ApxInf on GitHub">
+      <img src="/images/projects/infinigence-logo.svg" alt="Infinigence 无问芯穹 logo" width="125" height="39" loading="lazy">
+    </a>
+    <div class="project-description">
+      <h3 id="project-apxinf">ApxInf</h3>
+      <p class="project-meta">DAI Lab, Shanghai Jiao Tong University × Infinigence<br>Jun. 2026 – present</p>
+      <p>A Rust-based edge inference engine for vision-language-action models on NVIDIA Jetson Thor and Orin.</p>
+      <ul>
+        <li>Worked on Jetson Thor deployment, end-to-end optimization, and FlashRT / TensorRT baseline comparisons.</li>
+        <li>Contributed to static execution and seamless dataflow; evaluated action quality on LIBERO and LIBERO-Plus.</li>
+      </ul>
+      <p class="project-links"><a href="https://github.com/infinigence/ApxInf">Code</a></p>
+    </div>
+  </article>
+</div>
 
 ## News
 
