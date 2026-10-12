@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated: August 2026 &nbsp; | &nbsp; [English CV](/files/cv.pdf) &nbsp; | &nbsp; [中文简历](/files/cv_cn.pdf)
+[English CV](/files/cv.pdf) &nbsp; | &nbsp; [中文简历](/files/cv_cn.pdf) (updated October 2026)
 
 ## Research Interests
 

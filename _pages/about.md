@@ -13,7 +13,7 @@ I am an **incoming Ph.D. student in the School of Artificial Intelligence, Shang
 
 My research interests lie in **Embodied AI**, **World Models**, and **Efficient AI**, with a focus on **embodied AI systems** and **spatial reasoning**. Recently, I have been working on **Cloud-Edge Integrated Intelligent Systems** and **VLA Acceleration**.
 
-For more information, please see my Curriculum Vitae: [English CV](http://xiongwenye.github.io/files/cv.pdf) / [中文简历](http://xiongwenye.github.io/files/cv_cn.pdf).
+For more information, please see my Curriculum Vitae: [English CV](/files/cv.pdf) / [中文简历](/files/cv_cn.pdf).
 
 ## Research Interests
 
@@ -64,6 +64,26 @@ For more information, please see my Curriculum Vitae: [English CV](http://xiongw
 
 - **MakeSense, ShanghaiTech First SensUs Team** — Co-Founder & Leader of Data Analysis Team (Aug. 2024 – Aug. 2025)   
   - **First Place** in Analytical Performance: *"This team did an absolutely remarkable job with unprecedented results and near-perfect accuracy. This is a first in SensUs history and sets a new benchmark for other teams, especially as a first-time participating team."* — SensUs Committee.
+
+## Selected Projects
+
+### Phase-Adaptive Quantization for AI Accelerators
+
+*MIT Hardware Architecture for Deep Learning · Apr. – May 2026*
+
+Developed a phase-aware 4-bit quantization design-space exploration framework for LLM, VLM, and VLA inference. The project combines an AccelForge workflow for hardware energy and latency analysis with a Python accuracy emulator using real model tensor snapshots, comparing NVFP4-like, MXFP4-like, and custom rescale pipelines across prefill and decode.
+
+### Neural Olfactory Sensing and Evaluation (NOSE)
+
+*ShanghaiTech University · May – Jun. 2025*
+
+Fine-tuned MoLFormer on the GS-LF olfactory dataset and evaluated odor classification and pleasantness prediction against OpenPOM on Keller-2016. [Project details](/posts/NOSE-Neural-Olfactory-Sensing-and-Evaluation/)
+
+### De Novo Design of Odorant Binding Proteins
+
+*ShanghaiTech University · Dec. 2024 – Jan. 2025*
+
+Designed odorant binding proteins targeting breast-cancer-associated volatile compounds using RFdiffusionAA and LigandMPNN, with computational evaluation using AutoDock, PyRosetta, and ESMFold. [Project details](/posts/De-Novo-Design-of-Odorant-Binding-Proteins/)
 
 ## News
 
