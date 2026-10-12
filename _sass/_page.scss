@@ -373,6 +373,11 @@
 }
 
 
+// Keep the project heading visible when opening its fragment URL directly.
+#selected-projects {
+  scroll-margin-top: 80px;
+}
+
 /*
    Related
    ========================================================================== */
